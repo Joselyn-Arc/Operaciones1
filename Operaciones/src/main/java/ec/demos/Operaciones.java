@@ -8,16 +8,24 @@ public class Operaciones {
 		super();
 	}
 
- public Operaciones(int values1, int values2) {
+    public Operaciones(int values1, int values2) {
 		super();
 		this.values1 = values1;
 		this.values2 = values2;
 	}
- 
-public void Sumar() {
-	int sumar= values1 + values2; 
-	System.out.println("Suma: " + sumar);
-}
+  
+    public void Sumar() {
+	    int sumar= values1 + values2; 
+	    System.out.println("Suma: " + sumar);
+	
+     }
+      
+    public void Restar() {
+    	int resta= values1- values2; 
+    	System.out.println("Resta: " + resta);
+    }
+
+
  
 public int getValues1() {
 	return values1;
