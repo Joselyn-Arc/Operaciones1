@@ -24,6 +24,11 @@ public class Operaciones {
     	int resta= values1- values2; 
     	System.out.println("Resta: " + resta);
     }
+    
+    public void Multiplicar() {
+    	int multiplicar= values1* values2; 
+    	System.out.println("Resta: " + multiplicar);
+    }
 
 
  
