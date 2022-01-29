@@ -16,6 +16,13 @@ public class OperacionesApp {
 	    op.setValues1(5);
 	    op.setValues2(7);
 	    op.Multiplicar();
-	    }
+	    
+	    
+	    op.setValues1(100);
+	    op.setValues2(6);
+	    op.Dividir();
+	   
+	}
+
 
 }

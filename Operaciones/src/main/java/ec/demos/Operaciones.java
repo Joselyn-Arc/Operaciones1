@@ -27,7 +27,12 @@ public class Operaciones {
     
     public void Multiplicar() {
     	int multiplicar= values1* values2; 
-    	System.out.println("Resta: " + multiplicar);
+    	System.out.println("Multiplicacion: " + multiplicar);
+    }
+    
+    public void Dividir() {
+    	int dividir= values1 / values2; 
+    	System.out.println("Dividir: " + dividir);
     }
 
 
