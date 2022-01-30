@@ -20,7 +20,7 @@ public class OperacionesApp {
 	    
 	   op.setValues1(200);
 	   op.setValues2(8);
-	   op.Dividir();
+	   op.Dividir1();
 	   
 	}
 

@@ -30,7 +30,7 @@ public class Operaciones {
     	System.out.println("Multiplicacion: " + multiplicar);
     }
     
-    public void Dividir() {
+    public void Dividir1() {
     	int dividir = values1 / values2;
     	System.out.println("Division: " + dividir);
     }
