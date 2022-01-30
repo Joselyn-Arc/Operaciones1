@@ -31,9 +31,11 @@ public class Operaciones {
     }
     
     public void Dividir() {
-    	int dividir= values1 / values2; 
-    	System.out.println("Dividir: " + dividir);
+    	int dividir = values1 / values2;
+    	System.out.println("Division: " + dividir);
     }
+    
+
 
 
  
